@@ -1,3 +1,11 @@
+cloud-init (0.7.6~bzr976-2+deb8u2) jessie-security; urgency=high
+
+  * Non-maintainer upload by the ELTS team.
+  * Write passwords only to serial console, lock down
+    cloud-init-output.log. (Fixes: CVE-2021-3429) (Closes: #985540)
+
+ -- Utkarsh Gupta <utkarsh@debian.org>  Thu, 13 May 2021 18:15:18 +0530
+
 cloud-init (0.7.6~bzr976-2+deb8u1) jessie-security; urgency=high
 
   * Non-maintainer Upload by the LTS team.
