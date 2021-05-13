@@ -2,3 +2,4 @@ fix-path-to-blkid-binary.patch
 disable-rhel-set-hostname-test.patch
 CVE-2020-8631.patch
 CVE-2020-8632.patch
+CVE-2021-3429.patch
